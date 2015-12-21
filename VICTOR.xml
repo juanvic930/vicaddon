@@ -17,11 +17,12 @@
 <externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
 </item>
 
-<item>
+<items>
 <name>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] </name>
 <link>https://raw.githubusercontent.com/juanvic930/movies/master/TVSHOWS/LIVE%20TV.xml</link>
 <thumbnail></thumbnail>
-</item>
+<date>VIC</date>
+</items>
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
