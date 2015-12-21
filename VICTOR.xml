@@ -1,45 +1,48 @@
-<poster>VICTOR</poster>
-<fanart></fanart>
-#######################################################################################################################################
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-          --------------------------------------------------
-<notify>
-<new></new>
-<message1>For Stash Content Updates</message1>
-<message2></message2>
-<old></old>
-</notify>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/pyt_vod.xml</externallink>
+</item>
 
-<message1></message1>
-<message2></message2>
-<message3></message3>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/tv.xml</externallink>
+</item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
+</item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/mx.xml</externallink>
+</item>
 
-#####################################################################################################################
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
+</item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  IPTV[B]+[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/iptv.m3u</externallink>
+</item>
 
-<name>[COLOR yellow]MOVIES[/COLOR]</name>
-<link>https://raw.githubusercontent.com/juanvic930/movies/master/MOVIES/PELICULAS.xml</link>
-<thumbnail></thumbnail>
-<date>VIC</date>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
+</item>
 
-<name>[COLOR yellow]TVSHOWS[/COLOR]</name>
-<link>https://raw.githubusercontent.com/juanvic930/movies/master/TVSHOWS/TVSHOWS.xml</link>
-<thumbnail></thumbnail>
-<date>VIC</date>
-
-<name>[COLOR yellow]LIVE TV MEXICO[/COLOR]</name>
-<link>https://raw.githubusercontent.com/juanvic930/movies/master/TVSHOWS/CANALES%20DE%20MEXICO.xml</link>
-<thumbnail>http://i2.minus.com/iOLNNXxqOWcOe.png</thumbnail>
-<date>VIC</date>
-
-<name>[COLOR yellow]18 +[/COLOR]</name>
-<link>https://raw.githubusercontent.com/juanvic930/movies/master/PORN/18%20%2B.xml</link>
-<thumbnail>http://i00.i.aliimg.com/photo/v3/474357200/nude_nude_wall_art_nude_girl_boby.jpg</thumbnail>
-<date>VIC</date>
-
-<name>[COLOR yellow]LIVE TV[/COLOR]</name>
-<link>https://raw.githubusercontent.com/juanvic930/movies/master/TVSHOWS/LIVE%20TV.xml</link>
-<thumbnail></thumbnail>
-<date>VIC</date>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Paises[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/paises.xml</externallink>
+</item>
